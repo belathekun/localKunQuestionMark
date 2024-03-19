@@ -1,0 +1,6 @@
+name = "localKunQuestionMark"
+uuid = "75a4e88d-5c08-4258-ae35-24bd58dfc1e6"
+repo = "https://github.com/belathekun/localKunQuestionMark"
+description = "My private registry"
+
+[packages]
